@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Yijun Zhou is a PhD Candidate in Biomechanics at the Uppsala University. His research interests include numerical optimization and the related inverse problems.
+I am Yijun Zhou, a PhD Candidate in Biomechanics at the Uppsala University. My research interests include numerical optimization and the relative inverse problems.
