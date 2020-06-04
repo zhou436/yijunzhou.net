@@ -1,7 +1,6 @@
 ---
 # Display name
-title: Yijun Zhou
-          周奕君
+title: Yijun Zhou 周奕君
 
 # Username (this should match the folder name)
 authors:
