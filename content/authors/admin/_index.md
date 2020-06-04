@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Yijun Zhou
+          周奕君
 
 # Username (this should match the folder name)
 authors:
@@ -70,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Yijun Zhou is a PhD Candidate in Biomechanics at the Uppsala University BMS group. His research interests include numerical optimization and the related inverse problems.
+Yijun Zhou is a PhD Candidate in Biomechanics at the Uppsala University. His research interests include numerical optimization and the related inverse problems.
