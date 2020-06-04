@@ -23,7 +23,7 @@ bio: My research interests include numerical optimization and the related invers
 interests:
 - Structure Analysis
 - Numerical Simulation
-- Numerical optimization
+- Optimization
 
 education:
   courses:
