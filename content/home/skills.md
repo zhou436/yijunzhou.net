@@ -22,7 +22,7 @@ subtitle = ""
   
 [[feature]]
   icon = "wave-sine"
-  icon_pack = "fas"
+  icon_pack = "cogs"
   name = "Structure Analysis"
   description = "90%"  
   
