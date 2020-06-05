@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Biomechanics
     institution: Uppsala University
-    year: 2020 - 
+    year: 2020 - present
   - course: MSc in Civil Engineering
     institution: Technische Universität München
     year: 2017 - 2019
