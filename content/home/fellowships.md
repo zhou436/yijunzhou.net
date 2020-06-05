@@ -8,5 +8,5 @@ weight = 129  # Order that this section will appear in.
 title = "Fellowships, Awards and Honours"
 
 [content]
-    1. Marie Skłodowska-Curie Actions (MSCA) Innovative Training Networks (ITN) 2020-2023
-    2. MAIV Preis 2019
+    1. Marie Skłodowska-Curie Actions (MSCA) Innovative Training Networks (ITN), 2020-2023
+    2. MAIV Preis 3.Preis, 2019
