@@ -6,7 +6,10 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "Numerical optimization of pedicle screws"
+subtitle = "Dynamical anlysis and damping problems"
+subtitle = "Structure influenced Osteointegration"
+subtitle = "Topology optimization and application"
 
 [content]
   # Page type to display. E.g. project.
@@ -21,21 +24,10 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-    name = "Numerical optimization of pedicle screws"
-    tag = "umerical optimization of pedicle screws"
+  # [[content.filter_button]]
+  #   name = "Numerical optimization of pedicle screws"
+  #   tag = "umerical optimization of pedicle screws"
   
-  [[content.filter_button]]
-    name = "Dynamical anlysis and damping problems"
-    tag = "Dynamical anlysis and damping problems"
-  
-  [[content.filter_button]]
-    name = "Osteointegration Properties of Silicon Nitride"
-    tag = "Osteointegration Properties of Silicon Nitride"
-
-  [[content.filter_button]]
-    name = "Topology optimization and application"
-    tag = "Topology optimization and application"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
