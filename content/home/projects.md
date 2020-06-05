@@ -24,9 +24,21 @@ subtitle = "Topology optimization and application"
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  # [[content.filter_button]]
-  #   name = "Numerical optimization of pedicle screws"
-  #   tag = "umerical optimization of pedicle screws"
+  [[content.filter_button]]
+    name = "All"
+    tag = "All"
+
+  [[content.filter_button]]
+    name = "Simulation"
+    tag = "Simulation"
+
+  [[content.filter_button]]
+    name = "Optimization"
+    tag = "Optimization"
+
+  [[content.filter_button]]
+    name = "Others"
+    tag = "Others"
   
 
 [design]
