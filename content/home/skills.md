@@ -21,8 +21,8 @@ subtitle = ""
   description = "80%"
   
 [[feature]]
-  icon = "wave-sine"
-  icon_pack = "cogs"
+  icon = "cogs"
+  icon_pack = "fas"
   name = "Structure Analysis"
   description = "90%"  
   
