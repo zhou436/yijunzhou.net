@@ -6,10 +6,10 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = "Numerical optimization of pedicle screws"
-subtitle = "Dynamical anlysis and damping problems"
-subtitle = "Structure influenced Osteointegration"
-subtitle = "Topology optimization and application"
+# subtitle = "Numerical optimization of pedicle screws"
+# subtitle = "Dynamical anlysis and damping problems"
+# subtitle = "Structure influenced Osteointegration"
+# subtitle = "Topology optimization and application"
 
 [content]
   # Page type to display. E.g. project.
