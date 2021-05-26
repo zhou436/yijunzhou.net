@@ -1,8 +1,8 @@
 +++
 # About Fellowships, Awards and Honours.
 widget = "fellowships"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+headless = false  # This file represents a page section.
+active = false  # Activate this widget? true/false
 weight = 129  # Order that this section will appear in.
 
 title = "Fellowships, Awards and Honours"
